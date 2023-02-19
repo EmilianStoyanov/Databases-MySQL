@@ -1,0 +1,7 @@
+CREATE PROCEDURE solution()
+BEGIN
+	SELECT name
+	FROM projectLog
+	
+	/* Write your SQL here. Terminate each statement with a semicolon. */
+END
